@@ -72,8 +72,8 @@ I build tools where **3D graphics meets generative AI** — teaching machines to
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chiragsingh1711&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8E2DE2&icon_color=00C9FF" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragsingh1711&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8E2DE2&langs_count=8" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chiragsingh1711&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8E2DE2&icon_color=00C9FF" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chiragsingh1711&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8E2DE2&langs_count=8" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=chiragsingh1711&theme=tokyonight&hide_border=true&background=00000000&ring=8E2DE2&fire=00C9FF&currStreakLabel=8E2DE2" alt="GitHub streak"/>
 
@@ -84,12 +84,6 @@ I build tools where **3D graphics meets generative AI** — teaching machines to
 ---
 
 ## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chiragsingh1711&theme=tokyonight&no-frame=true&no-bg=true&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Reviews,Issues" alt="Trophies"/>
-
-</div>
 
 - 🥇 **1st Prize** — Walmart Sparkathon '23 · 🥇 **1st Prize** — DevSoc '23 (CodeChef-VIT)
 - 🏅 **Best Track + Best UI/UX** — Yantra '24 · 🥈 **2nd** — Caterpillar Hackathon '24 · 🥉 **3rd** — Yantra '23
