@@ -21,7 +21,7 @@
 
 I build tools where **3D graphics meets generative AI** — teaching machines to model, texture, and understand the 3D world so artists don't have to fight their software.
 
-- 🔭 **Software Engineer @ [Mixar](https://mixar.ai)** — building AI-powered 3D modelling & texturing tools for studios and enterprises with **Python & C++**
+- 🔭 **Software Engineer @ [Mixar](https://mixar.app)** — building AI-powered 3D modelling & texturing tools for studios and enterprises with **Python & C++**
 - 🤖 Designing **custom agentic pipelines** that automate 3D workflows — SAM 3 segmentation → clean references → image-to-3D, fully batched
 - 🌌 Currently obsessed with **Gaussian Splats** — capturing, editing, and pushing them into real production pipelines
 - ☀️ **2× Google Summer of Code** — [FreeCAD '25](https://github.com/chiragsingh1711/gsoc-2025-3D-PDF-Export-FreeCAD) (3D PDF export) & [BRL-CAD '24](https://github.com/chiragsingh1711/gsoc-2024-Issue-85) (Radiance rendering automation)
