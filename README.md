@@ -108,3 +108,4 @@ I build tools where **3D graphics meets generative AI** — teaching machines to
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=120&section=footer" width="100%"/>
 
 </div>
+
